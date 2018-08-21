@@ -29,4 +29,4 @@ function App() {
 const rootElement = document.getElementById("root");
 
 //Renderiza o componente APP dentro do elemento localizado acima (rootElement)
-ReactDOM.render(<Ex3 />, rootElement);
+ReactDOM.render(<App />, rootElement);
